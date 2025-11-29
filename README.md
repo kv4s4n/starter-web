@@ -4,7 +4,7 @@
 
 This is some filler text.
 This is also some filler text.
-
+Adding a line for rebasing example.
 This repository is for showing how Git and GitHub work
 
 ## Purpose
