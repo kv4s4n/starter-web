@@ -15,3 +15,5 @@
     HTML5, CSS3
     jQuery, Modernizr
     Git
+
+# This change is made to test an assignment by Rupak Gupta - Tarang
